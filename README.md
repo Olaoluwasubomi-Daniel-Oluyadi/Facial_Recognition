@@ -24,7 +24,6 @@ A facial recognition app using AWS services like Amazon Rekognition, Lambda, Dyn
 
 
 
-Reference: https://medium.com/@himanshusangshetty/building-facial-recognition-app-on-aws-using-rekognition-lambda-dynamodb-api-gateway-s3-a8586c5bf0bb
 
 
 
